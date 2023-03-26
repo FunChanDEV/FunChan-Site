@@ -1,4 +1,4 @@
 # FunChan-Site
 FunChan Ofiicial Site
 
-URL - https://github.com/FunChanDEV/FunChan-Site.git
+URL - https://funchandev.github.io/FunChan-Site/
